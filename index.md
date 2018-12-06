@@ -1,19 +1,18 @@
-## Welcome to Qincais GitHub Pages
 
  [editor](https://github.com/QincaiLiu/qincailiu.github.io/edit/master/index.md)
 
 Here I will create technic related topic, CI, python, bash etc.
 
-# CI
+### CI
 
 - CI flow
 - Jenkins
 - Kubernetes
 - GitLab
 
-# bash
+## bash
 
-# python
+### python
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
