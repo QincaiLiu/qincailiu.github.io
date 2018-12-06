@@ -6,16 +6,19 @@ Here I will create technic related topic, CI, python, bash etc.
 
 # CI
 
-## CI flow
-## Jenkins
-## Kubernetes
-## GitLab
+- CI flow
+- Jenkins
+- Kubernetes
+- GitLab
+
+# bash
+
+# python
+
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ```markdown
-
-- Bulleted
-- List
-
 1. Numbered
 2. List
 
@@ -24,11 +27,6 @@ Here I will create technic related topic, CI, python, bash etc.
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QincaiLiu/qincailiu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
