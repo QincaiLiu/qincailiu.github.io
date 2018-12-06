@@ -1,19 +1,17 @@
 ## Welcome to Qincais GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/QincaiLiu/qincailiu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ [editor](https://github.com/QincaiLiu/qincailiu.github.io/edit/master/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I will create technic related topic, CI, python, bash etc.
 
-### Markdown
+# CI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CI flow
+## Jenkins
+## Kubernetes
+## GitLab
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
