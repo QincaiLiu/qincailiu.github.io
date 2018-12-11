@@ -4,6 +4,7 @@
 Here I will create technic related topic, CI, python, bash etc.
 
 ### CI
+![CI_flow](CI flow.png)
 
 - [CI overall concept](https://hostadvice.com/blog/devops-toolbox-jenkins-ansible-chef-puppet-vagrant-saltstack/)
 - CI flow
@@ -29,12 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ```markdown
 1. Numbered
 2. List
-
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
-
 
 ### Support or Contact
 
