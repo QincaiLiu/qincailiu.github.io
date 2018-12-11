@@ -9,8 +9,8 @@ Here I will create technic related topic, CI, python, bash etc.
 - [CI overall concept](https://hostadvice.com/blog/devops-toolbox-jenkins-ansible-chef-puppet-vagrant-saltstack/)
 - CI flow
 - Jenkins
-- [Kubernetes](https://github.com/QincaiLiu/Memo/blob/master/Kubernetes)
-- [GitLab](https://github.com/QincaiLiu/Memo/blob/master/GitLab)
+- [Kubernetes](https://github.com/QincaiLiu/Memo/blob/master/Kubernetes.md)
+- [GitLab](https://github.com/QincaiLiu/Memo/blob/master/GitLab.md)
 
 ### Docker
 
