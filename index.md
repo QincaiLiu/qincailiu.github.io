@@ -4,7 +4,7 @@
 Here I will create technic related topic, CI, python, bash etc.
 
 ### CI
-![image](CI flow.png)
+![image](CI_flow.png)
 
 - [CI overall concept](https://hostadvice.com/blog/devops-toolbox-jenkins-ansible-chef-puppet-vagrant-saltstack/)
 - CI flow
