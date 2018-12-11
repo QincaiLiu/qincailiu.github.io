@@ -1,5 +1,5 @@
 
- [editor](https://github.com/QincaiLiu/qincailiu.github.io/edit/master/index.md)
+[editor](https://github.com/QincaiLiu/qincailiu.github.io/edit/master/index.md)
 
 Here I will create technic related topic, CI, python, bash etc.
 
